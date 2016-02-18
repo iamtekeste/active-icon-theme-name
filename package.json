@@ -1,0 +1,37 @@
+{
+  "name": "active-icon-theme-name",
+  "version": "1.0.0",
+  "description": "Get the currently used icon theme. Works in Ubuntu only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamtekeste/active-icon-theme-name.git"
+  },
+  "keywords": [
+    "icon",
+    "theme",
+    "ubuntu",
+    "icon-theme",
+    "active"
+  ],
+  "author": "iamtekeste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamtekeste/active-icon-theme-name/issues"
+  },
+  "homepage": "https://github.com/iamtekeste/active-icon-theme-name#readme",
+  "devDependencies": {
+    "ava": "^0.11.0",
+    "blue-tape": "^0.2.0",
+    "gulp": "^3.9.1",
+    "gulp-ava": "^0.8.0",
+    "gulp-notify": "^2.2.0",
+    "tape": "^4.4.0"
+  },
+  "dependencies": {
+    "execa": "^0.2.2"
+  }
+}
