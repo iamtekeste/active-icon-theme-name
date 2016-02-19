@@ -1,8 +1,6 @@
-import iconThemeName from './index.js'
+import m from './'
 import test from 'ava';
-test(t => {
-    return iconThemeName().then(result => {
-        t.is(typeof result, 'string')
-        t.true(result.length > 1)
-    });
+test('async test', async t => {
+    const name = await m()
+    t.is(typeof name, 'string')
 });
