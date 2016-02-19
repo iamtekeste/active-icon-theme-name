@@ -25,11 +25,9 @@
   "homepage": "https://github.com/iamtekeste/active-icon-theme-name#readme",
   "devDependencies": {
     "ava": "^0.11.0",
-    "blue-tape": "^0.2.0",
     "gulp": "^3.9.1",
     "gulp-ava": "^0.8.0",
-    "gulp-notify": "^2.2.0",
-    "tape": "^4.4.0"
+    "gulp-notify": "^2.2.0"
   },
   "dependencies": {
     "execa": "^0.2.2"
