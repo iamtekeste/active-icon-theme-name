@@ -1,6 +1,6 @@
 {
   "name": "active-icon-theme-name",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Get the currently used icon theme. Works in Ubuntu only.",
   "main": "index.js",
   "scripts": {
