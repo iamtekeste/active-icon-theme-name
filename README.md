@@ -1,5 +1,5 @@
-#active-icon-theme-name [![Build Status](https://travis-ci.org/iamtekeste/active-icon-theme-name.svg?branch=master)](https://travis-ci.org/iamtekeste/active-icon-theme-name)
-> Get the name of the currently used icon theme.
+#active-icon-theme-name
+> Get the path to the currently used icon theme.
 
 
 ## Install
